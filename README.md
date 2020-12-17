@@ -5,6 +5,7 @@
 
 Consultant DBA and DevOps, with more than 9 years of outstanding experience in the administration of Technological Infrastructure and Database, with emphasis on Open Sources platforms. Advanced Management in Databases such as Oracle, PostgreSQL, and MySQL, Certified in PostgreSQL Professional. Last year I performed scalable PostgreSQL platform automation processes, automated with Terraform and Packer in cloud environments (AWS / GCP /Azure). I have worked with Ansible for the installation and configuration of services remotely. Passion for excellence, continuous learning, and professional growth. 
 Excellent self-taught abilities,methodological orientation and team work. Leadership qualities and systemic thinking skills. Responsable and corporate commitment
+
 **VOLUNTARIAT** 
 
 * Girls in Tech Spain - Team Manager
