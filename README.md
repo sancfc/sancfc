@@ -10,24 +10,25 @@ Excellent self-taught abilities,methodological orientation and team work. Leader
 
 * Girls in Tech Spain - Team Manager
 
-   <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> @GirlsinTechES 
+   <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> [@GirlsinTechES](https://twitter.com/GirlsinTechES)
    
 * Women who Code Santiago de Chile - Voluntary
 
-    <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> @WWCodeSantiago
+    <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> [@WWCodeSantiago](https://twitter.com/WWCodeSantiago])
     
 * Judge in Technovation 
 
-    <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> @technovation
+    <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> [@technovation](https://twitter.com/technovation)
     
 * Girls in Tech Chile 
 
-  <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> @GirlsinTech_CL
+  <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> [@GirlsinTech_CL](https://twitter.com/GirlsinTech_CL)
   
   
 **Find me around the web 👇👩‍💻**
 
-* <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> @sancfc
+* <img src="https://image.flaticon.com/icons/png/512/23/23681.png" width="30" height="30" /> [@sancfc](https://twitter.com/technovation)
 
 * <img src="https://mk0hootsuiteblof6bud.kinstacdn.com/wp-content/uploads/2025/05/linkedin-for-business-8-620x527.png" width="30" height="30" /> [LinkedIn](https://www.linkedin.com/in/sancfc/)
 
+![girls](https://devforum.roblox.com/uploads/default/original/4X/2/7/4/274d40f45b3f56a908c194f494eec2319ca3063b.gif)
