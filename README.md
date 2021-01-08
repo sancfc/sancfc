@@ -46,20 +46,24 @@ Excellent self-taught abilities,methodological orientation and team work. Leader
 
 ### **Voluntariat** 
 
-* Girls in Tech Spain - Team Manager  <a href="https://twitter.com/GirlsinTechES">
+* Girls in Tech Spain - Team Manager  
+<a href="https://twitter.com/GirlsinTechES">
   <img src="https://img.shields.io/badge/-Twitter-blue" width="50" height="20" alt="twitter">
 </a>
 
-* Women who Code Santiago de Chile - Voluntary <a href="https://twitter.com/GirlsinTech_cl">
+* Women who Code Santiago de Chile - Voluntary 
+<a href="https://twitter.com/GirlsinTech_cl">
   <img src="https://img.shields.io/badge/-Twitter-blue" width="50" height="20" alt="twitter">
 </a>
 
-* Judge in Technovation <a href="https://twitter.com/technovation">
+* Judge in Technovation 
+<a href="https://twitter.com/technovation">
   <img src="https://img.shields.io/badge/-Twitter-blue" width="50" height="20" alt="twitter">
 </a>
 
      
-* Girls in Tech Chile - Voluntary <a href="https://twitter.com/GirlsinTech_CL">
+* Girls in Tech Chile - Voluntary 
+<a href="https://twitter.com/GirlsinTech_CL">
   <img src="https://img.shields.io/badge/-Twitter-blue" width="50" height="20" alt="twitter">
 </a>
   
