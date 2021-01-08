@@ -10,17 +10,33 @@ Excellent self-taught abilities,methodological orientation and team work. Leader
 
 ![RedHat](https://img.shields.io/static/v1?label=RedHat&message=70%&color=EE0000&logo=redhat) ![CentOs](https://img.shields.io/static/v1?label=CentOs&message=70%&color=262577&logo=centos) ![Ubuntu](https://img.shields.io/static/v1?label=Ubuntu&message=100%&color=E95420&logo=ubuntu) ![Debian](https://img.shields.io/static/v1?label=Debian&message=90%&color=A81D33&logo=debian) ![Fedora](https://img.shields.io/static/v1?label=Fedora&message=40%&color=294172&logo=fedora)
 * Virtualization: 
+
 ![proxmox](https://img.shields.io/static/v1?label=Promox&message=60%&color=orange&logo=proxmox)
-* Monitoring: ![NAGIOS](https://img.shields.io/static/v1?label=Nagios&message=60%&color=green) ![Zabbix](https://img.shields.io/static/v1?label=Zabbix&message=40%&color=green) ![Grafana](https://img.shields.io/static/v1?label=Grafana&message=60%&color=F46800&logo=grafana) ![Prometheus](https://img.shields.io/static/v1?label=Grafana&message=40%&color=E6522C&logo=prometheus)
-* Databases: ![PostgreSQL](https://img.shields.io/static/v1?label=PostgreSQL&message=85%&color=336791&logo=postgresql) ![Oracle](https://img.shields.io/static/v1?label=ORACLE&message=40%&color=F80000&logo=oracle) ![MySQL](https://img.shields.io/static/v1?label=MySQL&message=40%&color=4479A1&logo=mysql) 
-* Cloud: ![AWS](https://img.shields.io/static/v1?label=AWS&message=65%&color=232F3E&logo=Amazonaws) ![GCP](https://img.shields.io/static/v1?label=GCP&message=40%&color=4285F4&logo=Googlecloud) ![Azure](https://img.shields.io/static/v1?label=Azure&message=40%&color=0089D6&logo=microsoftazure) 
+* Monitoring: 
 
-* IaC:![Terraform](https://img.shields.io/static/v1?label=Terraform&message=70%&color=623CE4&logo=Terraform) ![Ansible](https://img.shields.io/static/v1?label=Ansible&message=70%&color=EE0000&logo=Ansible)
+![NAGIOS](https://img.shields.io/static/v1?label=Nagios&message=60%&color=green) ![Zabbix](https://img.shields.io/static/v1?label=Zabbix&message=40%&color=green) ![Grafana](https://img.shields.io/static/v1?label=Grafana&message=60%&color=F46800&logo=grafana) ![Prometheus](https://img.shields.io/static/v1?label=Grafana&message=40%&color=E6522C&logo=prometheus)
+* Databases: 
 
-* Containers:![Docker](https://img.shields.io/static/v1?label=Docker&message=60%&color=blue&logo=docker) ![Podman](https://img.shields.io/static/v1?label=Podman&message=40%&color=Violet&logo=podman)
+![PostgreSQL](https://img.shields.io/static/v1?label=PostgreSQL&message=85%&color=336791&logo=postgresql) ![Oracle](https://img.shields.io/static/v1?label=ORACLE&message=40%&color=F80000&logo=oracle) ![MySQL](https://img.shields.io/static/v1?label=MySQL&message=40%&color=4479A1&logo=mysql) 
+* Cloud: 
 
-* Kubernetes: ![Helm](https://img.shields.io/static/v1?label=Helm&message=60%&color=0F1689&logo=helm)
-* Continuous Integration CI/CD: ![Gitlab](https://img.shields.io/static/v1?label=GitlabAutoDevopsconRunnerDocker&message=60%&color=FCA121&logo=gitlab) ![Jenkins](https://img.shields.io/static/v1?label=Jenkins&message=60%&color=D24939&logo=jenkins)
+![AWS](https://img.shields.io/static/v1?label=AWS&message=65%&color=232F3E&logo=Amazonaws) ![GCP](https://img.shields.io/static/v1?label=GCP&message=40%&color=4285F4&logo=Googlecloud) ![Azure](https://img.shields.io/static/v1?label=Azure&message=40%&color=0089D6&logo=microsoftazure) 
+
+* IaC:
+
+![Terraform](https://img.shields.io/static/v1?label=Terraform&message=70%&color=623CE4&logo=Terraform) ![Ansible](https://img.shields.io/static/v1?label=Ansible&message=70%&color=EE0000&logo=Ansible)
+
+* Containers: 
+
+![Docker](https://img.shields.io/static/v1?label=Docker&message=60%&color=blue&logo=docker) ![Podman](https://img.shields.io/static/v1?label=Podman&message=40%&color=Violet&logo=podman)
+
+* Kubernetes: 
+
+![Helm](https://img.shields.io/static/v1?label=Helm&message=60%&color=0F1689&logo=helm)
+
+* Continuous Integration CI/CD: 
+
+![Gitlab](https://img.shields.io/static/v1?label=GitlabAutoDevopsconRunnerDocker&message=60%&color=FCA121&logo=gitlab) ![Jenkins](https://img.shields.io/static/v1?label=Jenkins&message=60%&color=D24939&logo=jenkins)
 
 ### **Charlas&invitaciones** 
 * [pgDay Santiago 2019](https://www.pgday.cl/2019/schedule/day-1-hall-d-lesson-1/)
