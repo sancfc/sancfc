@@ -38,7 +38,7 @@ Excellent self-taught abilities,methodological orientation and team work. Leader
 
 ![Gitlab](https://img.shields.io/static/v1?label=GitlabAutoDevopsconRunnerDocker&message=60%&color=FCA121&logo=gitlab) ![Jenkins](https://img.shields.io/static/v1?label=Jenkins&message=60%&color=D24939&logo=jenkins)
 
-### **Charlas&invitaciones** 
+### **Talks & invitations** 
 * [pgDay Santiago 2019](https://www.pgday.cl/2019/schedule/day-1-hall-d-lesson-1/)
     [StackGres: Cloud-Native PostgreSQL en Kubernetes](https://wiki.postgresql.org/images/8/89/StackGres_Cloud-Native_PostgreSQL_en_Kubernetes.pdf)
 * [pgDay París 2020](https://2020.pgday.paris/organization/)
