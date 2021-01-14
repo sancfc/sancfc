@@ -28,7 +28,7 @@ Excellent self-taught abilities,methodological orientation and team work. Leader
 
 * Containers: 
 
-![Docker](https://img.shields.io/static/v1?label=Docker&message=60%&color=blue&logo=docker) ![Podman](https://img.shields.io/static/v1?label=Podman&message=40%&color=Violet&logo=podman)
+![Docker](https://img.shields.io/static/v1?label=Docker&message=60%&color=blue&logo=docker) ![Podman](https://img.shields.io/static/v1?label=Podman&message=40%&color=892ca0&logo=podman)
 
 * Kubernetes: 
 
