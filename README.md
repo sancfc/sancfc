@@ -42,7 +42,7 @@ Excellent self-taught abilities,methodological orientation and team work. Leader
 * [pgDay Santiago 2019](https://www.pgday.cl/2019/schedule/day-1-hall-d-lesson-1/)
     [StackGres: Cloud-Native PostgreSQL en Kubernetes](https://wiki.postgresql.org/images/8/89/StackGres_Cloud-Native_PostgreSQL_en_Kubernetes.pdf)
 * [pgDay París 2020](https://2020.pgday.paris/organization/)
-  
+* [DevCast Serie DevOps - Spanish Edition | Mi camino con Nomad](https://youtu.be/x_FsaXHWdPA)
 
 ### **Voluntariat** 
 
