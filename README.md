@@ -24,8 +24,19 @@ Excellent self-taught abilities,methodological orientation and team work. Leader
 * [pgDay Santiago 2019](https://www.pgday.cl/2019/schedule/day-1-hall-d-lesson-1/)
     [StackGres: Cloud-Native PostgreSQL en Kubernetes](https://wiki.postgresql.org/images/8/89/StackGres_Cloud-Native_PostgreSQL_en_Kubernetes.pdf)
 * [pgDay París 2020](https://2020.pgday.paris/organization/)
-* [DevCast Serie DevOps - Spanish Edition | Mi camino con Nomad](https://youtu.be/x_FsaXHWdPA)
-* [Mesa Redonda | Anónimas, nunca más](https://youtu.be/ufU8elo_6to)
+
+* DevCast Serie DevOps - Spanish Edition | Mi camino con Nomad 👇🏻
+
+[![DevCast Serie DevOps - Spanish Edition | Mi camino con Nomad](https://img.youtube.com/vi/x_FsaXHWdPA/0.jpg)](https://www.youtube.com/watch?v=x_FsaXHWdPA)
+
+* Mesa Redonda 👇🏻
+
+[![Mesa redonda](https://img.youtube.com/vi/ufU8elo_6to/0.jpg)](https://www.youtube.com/watch?v=ufU8elo_6to)
+
+* Open your mind!, no soy programadora pero uso Python 👇
+
+[![Open your mind!, no soy programadora pero uso Python](https://img.youtube.com/vi/1_Z7gvpWTT0/0.jpg) ](https://www.youtube.com/watch?v=1_Z7gvpWTT0)
+
 
 ### **Voluntariat** 
 
