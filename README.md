@@ -1,6 +1,6 @@
 
 # DevOps & DBA PostgreSQL 
-![presentation](hola%20soy%20sancfc.jpg)
+![presentation](DSC_8791.jpg)
 
 Consultant DBA and DevOps with over 10 years of extensive experience in Technological Infrastructure and Database Administration, specializing in Open Source platforms. Expertise in managing databases such as Oracle, PostgreSQL, and MySQL, and a Certified PostgreSQL Professional.
 
