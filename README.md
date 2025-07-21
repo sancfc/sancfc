@@ -52,7 +52,7 @@ My professional approach is driven by a passion for excellence, continuous learn
 * ¿Que es ser DevOps Engineer? - My Tech Talks con Francis Santiago de Girls In Tech Spain 👇
 [![¿Que es ser DevOps Engineer? - My Tech Talks con Francis Santiago de Girls In Tech Spain](https://img.youtube.com/vi/06-etr4_cCA/0.jpg) ](https://www.youtube.com/live/06-etr4_cCA?si=OFCvatYpML_9Y1Hv)
 
-* [PGDAY IBIZA 2024: Program Committee](https://pgibz.io/#:~:text=Talks%20Selection%20Committee)
+* [PGDAY IBIZA 2024: Program Committee](https://pgibz.io/2024/index.html)
 
 
 ### **Nominations** 
@@ -62,6 +62,7 @@ My professional approach is driven by a passion for excellence, continuous learn
   
 ### **Voluntariat** 
 
+* [Empower Tech Spain - Founder and CEO](https://empower-tech.org/francis-santiago-ceo-founder/) 
 * Girls in Tech Spain - Team Manager  <a href="https://twitter.com/GirlsinTechES">
   <img src="https://img.shields.io/badge/-Twitter-blue" width="50" height="20" alt="twitter">
 </a>
