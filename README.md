@@ -30,7 +30,7 @@ My professional approach is driven by a passion for excellence, continuous learn
 * [pgDay Santiago 2019](https://www.pgday.cl/2019/schedule/day-1-hall-d-lesson-1/)
     [StackGres: Cloud-Native PostgreSQL en Kubernetes](https://wiki.postgresql.org/images/8/89/StackGres_Cloud-Native_PostgreSQL_en_Kubernetes.pdf)
 * [pgDay París 2020](https://2020.pgday.paris/organization/)
-
+* [¿Quién es quién? SRE (DevOps) Chimichurri Code](https://open.spotify.com/episode/2lZCNjeYdkNbdYlVCsMzeL?si=kKZW1JyYTRWarx1U4mM95g)
 * DevCast Serie DevOps - Spanish Edition | Mi camino con Nomad 👇🏻
 
 [![DevCast Serie DevOps - Spanish Edition | Mi camino con Nomad](https://img.youtube.com/vi/x_FsaXHWdPA/0.jpg)](https://www.youtube.com/watch?v=x_FsaXHWdPA)
