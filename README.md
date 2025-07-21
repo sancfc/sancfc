@@ -41,7 +41,7 @@ My professional approach is driven by a passion for excellence, continuous learn
 
 * [Descubre el mágico mundo de la tecnología y conoce a Alan Turing, Ada Lovelace, Steve Jobs o Katherine Jhonson" en el Colegio Angel de Leon](https://www.linkedin.com/posts/sancfc_jobs-tech-11defebrero-activity-7033469120104869889-Xm-L)
 
-* [Fundación la Caixa: Intergeneracional de Mujeres: ¡Tan distintas y tan IGUALES!](https://www.linkedin.com/posts/sancfc_jobs-tech-11defebrero-activity-7033469120104869889-Xm-L)
+* [Fundación la Caixa: Intergeneracional de Mujeres: ¡Tan distintas y tan IGUALES!](https://www.linkedin.com/posts/sancfc_kubeconeu-activity-7180458920178499584-Go10?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPmvnwBSRSTx9-jY3fPYrlL_1-H8JPJeXM)
 
 * [AperiTech Madrid: Mesa redonda Diversidad, Inclusión y Accesibilidad](https://www.codemotion.com/magazine/es/comunidad/cronica-aperitech-tech-sin-barreras/) 
 
