@@ -53,12 +53,20 @@ My professional approach is driven by a passion for excellence, continuous learn
 [![¿Que es ser DevOps Engineer? - My Tech Talks con Francis Santiago de Girls In Tech Spain](https://img.youtube.com/vi/06-etr4_cCA/0.jpg) ](https://www.youtube.com/live/06-etr4_cCA?si=OFCvatYpML_9Y1Hv)
 
 * [PGDAY IBIZA 2024: Program Committee](https://pgibz.io/2024/index.html)
+  
+* [Talent Arena 2026 - Maternidad en tecnología: entre pañales y despliegues](https://empower-tech.org/maternidad-en-tecnologia-entre-panales-y-despliegues-en-talent-arena/)
 
 
 ### **Nominations** 
 
 * [Women Awards 2023:Inspiring Leader](https://womenawards.globant.com/es/2023/InspiringLeader/FrancisSantiago)
 * [Top 100 Mujeres Líderes XII Edición 2024](https://www.elespanol.com/mujer/lastop100/votaciones/francis-del-carmen-santiago-cermeno/1093.html)
+* [Top 100 Mujeres Líderes XII Edición 2025](https://www.elespanol.com/mujer/lastop100/votaciones/francis-del-carmen-santiago-cermeno/1093.html)
+* [STEM Woman Award 2025 – organizado por el STEM Women Congress (Barcelona)](https://www.globalstemwomen.org/stem-woman-award)
+* [STRONG WOMEN IN IT 2025 - GLOBAL EDITION](https://www.linkedin.com/posts/sancfc_strongwomeninit-strongwomeninit2025-swit2025-activity-7376873121364148225-QXQ6?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPmvnwBSRSTx9-jY3fPYrlL_1-H8JPJeXM)
+* [50 más50 WO-MEN 2025](https://www.linkedin.com/posts/sancfc_50maers50-inclusiaejn-talento-activity-7302318518417387521-iD1I?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPmvnwBSRSTx9-jY3fPYrlL_1-H8JPJeXM)
+* [Technovation Girls Madrid -Jueza 2025](https://www.linkedin.com/posts/sancfc_technovationgirlsmadrid-technovationgirls-activity-7327973396162437120-Z-d5?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPmvnwBSRSTx9-jY3fPYrlL_1-H8JPJeXM)
+* [Nominación al Premio Mujer Innovación, una categoría especial impulsada por CAF dentro de los WOMEN IN TECH ® Global LATAM Awards 2025](https://www.linkedin.com/posts/sancfc_mujerinnovaciaejn2025-womenintech-caf-activity-7358488513631182850-GyEk?utm_source=share&utm_medium=member_desktop&rcm=ACoAAAPmvnwBSRSTx9-jY3fPYrlL_1-H8JPJeXM) 
   
 ### **Voluntariat** 
 
